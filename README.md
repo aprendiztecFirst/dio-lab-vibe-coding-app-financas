@@ -56,17 +56,14 @@ Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu pr
 
 ### 2. Explorando o Lovable na Prática
 
-Com seu prompt pronto, vá para o **Lovable** e comece a criar!
+Com seu PRD pronto e revisado, é hora de colocar a IA em ação. Abra o Lovable, cole seu prompt completo e peça o plano inicial do MVP do seu aplicativo. Como o plano gratuito limita você a 5 interações por dia, seja estratégico:
+- Faça perguntas diretas e construtivas, como “crie o fluxo de telas com base nas funcionalidades listadas” ou “gere uma versão resumida do plano de MVP”;
+- Priorize clareza nas instruções para aproveitar ao máximo cada resposta;
 
-Como o plano gratuito limita você a **5 interações por dia**, **seja estratégico**:  
-- Cole seu prompt completo e peça o **plano inicial do MVP**;  
-- Refinar pedindo, por exemplo: “adicione a jornada do usuário” ou “gere um resumo visual das telas”;  
-- Capture **prints** ou um **vídeo curto** mostrando o processo.
-
-Durante essa etapa, você pode:
-1. **Definir o Agente Financeiro:** instruir a IA a se comportar como um consultor financeiro pessoal (tom de voz, objetivos, restrições).  
-2. **Criar o Fluxo de Vibe Coding:** gerar o fluxo de telas conceitual, onde o usuário insere dados conversando (“Gastei 150 reais no supermercado no sábado, desconta da minha meta de viagem”).  
-3. **Gerar o Relatório de MVP:** pedir à IA um resumo com as 5 funcionalidades principais, os recursos necessários e um plano de validação inicial.
+Durante essa etapa, você pode orientar a IA para três entregas principais:
+1. Agente Financeiro: defina o comportamento e o tom de voz de um consultor financeiro pessoal, alinhado ao público e objetivo do app.
+2. Fluxo de Telas: peça à IA para gerar o fluxo conceitual de telas com base nas funcionalidades descritas no PRD, simulando a interação por conversa.
+3. Plano de MVP: solicite um resumo das 5 funcionalidades principais, dos recursos necessários e um plano de validação inicial (como medir se o app cumpre seu propósito).
 
 > [!TIP]
 > Se preferir, você pode fazer tudo com o **Copilot**. O importante é exercitar a habilidade de transformar intenções em instruções claras e testar os limites da IA como parceira criativa.
