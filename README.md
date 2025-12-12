@@ -1,8 +1,4 @@
-# 💸 App de Finanças Pessoais do Venilton com Vibe Coding
-
-Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot Web. A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
-
----
+# 💸 App de Finanças Pessoais do aprendizte com Vibe Coding
 
 ## 📝 PRD Refinado no Copilot Web
 
@@ -43,9 +39,7 @@ Gerar um plano de MVP contendo:
 - Linguagem acessível e tom educativo, em português
 - Aplicação dos princípios de Design Universal desde o protótipo
 ```
-
----
-
+'''
 ## 💬 Interações com o Lovable
 
 > Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
@@ -59,7 +53,7 @@ Gerar um plano de MVP contendo:
 ## 🎯 Resultado Final
 
 Acesse o protótipo funcional no Lovable:  
-**[conversa-fin-amigo.lovable.app](https://conversa-fin-amigo.lovable.app/)**
+**[https://papo-dinheiro-facil.lovable.app]**
 
 <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/88ef611d-970e-4377-918a-918714311218" />
 
